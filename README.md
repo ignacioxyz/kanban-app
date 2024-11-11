@@ -1,6 +1,6 @@
 # Kanban App with Real-Time Collaboration
 
-This is a Kanban app that supports real-time collaboration.
+This is a Kanban app that supports real-time collaboration. Please note that it does not support mobile devices, as this feature was not requested in the job offer, and the app had already become quite large.
 
 ## Getting Started
 
