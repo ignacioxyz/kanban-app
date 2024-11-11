@@ -27,6 +27,8 @@ LIVEBLOCKS_SECRET_KEY=your-liveblocks-api-key
 ## Features
 <img width="1790" alt="Screenshot 2024-11-11 at 11 12 21 AM" src="https://github.com/user-attachments/assets/270802ff-2767-487c-89df-29e5f5b9298f">
 
+# Users Connected
+The app includes a component that shows the number of users currently connected to the room. If there are more than three users, an option will appear, allowing you to click and view the list of connected users by name. For fewer than three users, simply hover over an avatar to see a tooltip with the user's name.
 <img width="1790" alt="Screenshot 2024-11-11 at 11 09 39 AM" src="https://github.com/user-attachments/assets/d282476d-4a6f-49db-b4d5-8b08d79097aa">
 <img width="1790" alt="Screenshot 2024-11-11 at 11 09 43 AM" src="https://github.com/user-attachments/assets/f9bd49e8-12a0-45f0-ba01-8dfdc9e775c0">
 
