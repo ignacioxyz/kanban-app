@@ -28,8 +28,10 @@ LIVEBLOCKS_SECRET_KEY=your-liveblocks-api-key
 <img width="1790" alt="Screenshot 2024-11-11 at 11 12 21 AM" src="https://github.com/user-attachments/assets/270802ff-2767-487c-89df-29e5f5b9298f">
 
 <img width="1790" alt="Screenshot 2024-11-11 at 11 09 39 AM" src="https://github.com/user-attachments/assets/d282476d-4a6f-49db-b4d5-8b08d79097aa">
-<img width="600" alt="Screenshot 2024-11-11 at 11 10 16 AM" src="https://github.com/user-attachments/assets/3370beff-0ca4-45a1-ae14-60decfbd4232">
 <img width="1790" alt="Screenshot 2024-11-11 at 11 09 43 AM" src="https://github.com/user-attachments/assets/f9bd49e8-12a0-45f0-ba01-8dfdc9e775c0">
+
+# Toast messages for each user connected, for every interaction made on the app, such as creating, moving, deleting, reordering, etc.
+<img width="600" alt="Screenshot 2024-11-11 at 11 10 16 AM" src="https://github.com/user-attachments/assets/3370beff-0ca4-45a1-ae14-60decfbd4232">
 
 # Real-time collaboration alerts that show how many people are working on or viewing a task.
 <img width="1746" alt="Screenshot 2024-11-11 at 11 06 42 AM" src="https://github.com/user-attachments/assets/21daf64f-8e40-426f-8d8b-00d436f4b273">
