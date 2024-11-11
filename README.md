@@ -9,6 +9,7 @@ To run this project, ensure you have Node.js v20.17.0 installed. Then, execute t
 ```bash
 npm install
 npm run dev
+```
 
 ##Environment Setup
 You also need to create a .env file in the project root with the following environment variables:
