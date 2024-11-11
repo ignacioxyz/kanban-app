@@ -15,9 +15,9 @@ npm run dev
 You also need to create a .env file in the project root with the following environment variables:
 
 ```bash
-Key used to create and access rooms in the app
+# Key used to create and access rooms in the app
 KANBAN_SECRET_KEY=your-kanban-secret-key
-Secret key from Liveblocks for real-time collaboration
+# Secret key from Liveblocks for real-time collaboration
 LIVEBLOCKS_SECRET_KEY=your-liveblocks-api-key
 ```
 
